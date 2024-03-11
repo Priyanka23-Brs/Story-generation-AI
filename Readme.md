@@ -9,4 +9,4 @@
 ##### Purpose:
     Create a story with minimal inputs
 
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/openai/story-generation/).
+#### Check out the live app [here](http://203.193.173.125/buildriseshine/openai/story-generation/).
